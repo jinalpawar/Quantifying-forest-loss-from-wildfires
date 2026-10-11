@@ -8,8 +8,8 @@ authors = [
 ]
 requires-python = ">=3.12"
 dependencies = [
-    "ee>=0.2",
-    "eemont>=2025.7.1",
+    "earthengine-api>=1.7.47",
+    "geemap>=0.38.9",
     "ipykernel>=7.4.0",
     "numpy>=2.5.3",
     "pandas>=3.0.6",
