@@ -9,6 +9,7 @@ authors = [
 requires-python = ">=3.12"
 dependencies = [
     "earthengine-api>=1.7.47",
+    "ffmpeg>=1.4",
     "ipykernel>=7.4.0",
     "numpy>=2.5.3",
     "pandas>=3.0.6",
