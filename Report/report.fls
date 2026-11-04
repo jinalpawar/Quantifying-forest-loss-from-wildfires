@@ -1,9 +1,9 @@
-PWD /home/ensai/ENSAI/Quantifying-forest-loss-wildfires/Report
+PWD /home/ensai/Documents/Quantifying-forest-loss-from-wildfires/Report
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/ensai/ENSAI/Quantifying-forest-loss-wildfires/Report/report.tex
+INPUT /home/ensai/Documents/Quantifying-forest-loss-from-wildfires/Report/report.tex
 OUTPUT report.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
