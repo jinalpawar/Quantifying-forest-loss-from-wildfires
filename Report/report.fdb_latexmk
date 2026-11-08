@@ -1,8 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1793790031.29875 "/home/ensai/Documents/Quantifying-forest-loss-from-wildfires/Report/report.tex" "report.pdf" "report" 1793790031.59503 0
+["pdflatex"] 1794154149.21761 "/home/ensai/Documents/Quantifying-forest-loss-from-wildfires/Report/report.tex" "report.pdf" "report" 1794154149.68475 0
   "/etc/texmf/web2c/texmf.cnf" 1773241691.49999 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/ensai/Documents/Quantifying-forest-loss-from-wildfires/Report/report.tex" 1793789817.72843 1900 5b4652101168d9d934d04b9a673d23c5 ""
+  "/home/ensai/Documents/Quantifying-forest-loss-from-wildfires/Report/report.tex" 1794154149.0014 2280 cae21a672e2feb64934a44cc4e0927b2 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -14,6 +15,7 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
@@ -62,9 +64,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1773241704.81338 5312232 f3296911be9cc021788f3f879cf0a47d ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1793790008 6800791 c671a374af04a27ee236f66c843cf2c8 ""
-  "report.aux" 1793790031.56869 653 fd343e4190ff70e690e2245975dd693b "pdflatex"
-  "report.out" 1793790031.56969 597 3d996ff421d91270a80fc13ea358053c "pdflatex"
-  "report.tex" 1793789817.72843 1900 5b4652101168d9d934d04b9a673d23c5 ""
+  "report.aux" 1794154149.64742 770 413c95c55a4cbbd2ea3ad241a716db80 "pdflatex"
+  "report.out" 1794154149.64842 746 1d1a7ed58a7cdf2320764e11c4b3ffcb "pdflatex"
+  "report.tex" 1794154149.0014 2280 cae21a672e2feb64934a44cc4e0927b2 ""
   (generated)
   "report.aux"
   "report.log"
