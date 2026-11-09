@@ -1,4 +1,5 @@
 \documentclass{article}
+\usepackage[top=2cm, bottom=2cm, left=2.5cm, right=2.5cm]{geometry}
 \usepackage{graphicx} % Required for inserting images
 \usepackage{hyperref}
 
@@ -24,5 +25,12 @@ As extreme weather events such as droughts and heatwaves become more frequent du
 \section{Visualizing the fire}
 To gauge the size of the fire, at least in its first phase, we combined all available Sentinel-2 images for the area of interest from the month of July 2022.
 The resulting animation is available at the following link *Insert github link*.
-\ref{"Fire animation"} shows the images that were used to generate the animation.
+Figure \ref{fig:visualizingFire} shows the images that were used to generate the animation. The fire started on July 12, however the image collected on that day does not show any visible sign of it. In the July 17 image, fire damage is visible in the West and East of the region of interest, along with smoke flowing towards the West from the affected areas. The last two images are not of much use, due to clouds covering most of the region of interest.
+\begin{figure}
+    \caption{All available Sentinel-2 images of the area of interest over July 2022. The date of each image is provided in the format "YYYYmmdd".}
+    \label{fig:visualizingFire}
+    \centering
+    \includegraphics[scale=0.3]{images/visualizing.png}
+\end{figure}
+
 \end{document}
