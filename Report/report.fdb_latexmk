@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1794224225.03277 "/home/ensai/Documents/Quantifying-forest-loss-from-wildfires/Report/report.tex" "report.pdf" "report" 1794224225.8577 0
+["pdflatex"] 1794329891.07936 "/home/ensai/Documents/Quantifying-forest-loss-from-wildfires/Report/report.tex" "report.pdf" "report" 1794329892.5494 0
   "/etc/texmf/web2c/texmf.cnf" 1773241691.49999 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/ensai/Documents/Quantifying-forest-loss-from-wildfires/Report/report.tex" 1794224224.86914 3008 a9eeb6e0409757068cb3a474d51ab1b3 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -64,9 +64,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1773241704.81338 5312232 f3296911be9cc021788f3f879cf0a47d ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1793790008 6800791 c671a374af04a27ee236f66c843cf2c8 ""
-  "images/visualizing.png" 1794223304.16428 6960431 158e752653aef5ada829565f51aa967c ""
-  "report.aux" 1794224225.82815 1197 1f024b7b7bba7b2799c3293ec0da9254 "pdflatex"
-  "report.out" 1794224225.82915 746 1d1a7ed58a7cdf2320764e11c4b3ffcb "pdflatex"
+  "images/visualizing.png" 1794329890.4212 7499137 3f75506461077d467bc78eb50639b68b ""
+  "report.aux" 1794329892.48924 1197 1f024b7b7bba7b2799c3293ec0da9254 "pdflatex"
+  "report.out" 1794329892.49025 746 1d1a7ed58a7cdf2320764e11c4b3ffcb "pdflatex"
   "report.tex" 1794224224.86914 3008 a9eeb6e0409757068cb3a474d51ab1b3 ""
   (generated)
   "report.aux"
